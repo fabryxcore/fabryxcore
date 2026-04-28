@@ -22,7 +22,7 @@ $ cat profile.log
 > mindset: consistency and technical depth
 
 $ echo $STATUS
-> building strong foundations across systems, networking, and security
+> building foundations. learning never stops.
 
 $ echo $GOAL
 > Understand systems. Analyze networks. Build and secure infrastructure.
