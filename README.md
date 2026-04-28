@@ -1,16 +1,29 @@
-## Hi there 👋
+```
+██████╗  █████╗ ██████╗ ██████╗ ██╗   ██╗██╗  ██╗ ██████╗ ██████╗ ██████╗ ███████╗
+██╔════╝██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝╚██╗██╔╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
+█████╗  ███████║██████╔╝██████╔╝ ╚████╔╝  ╚███╔╝ ██║     ██║   ██║██████╔╝█████╗
+██╔══╝  ██╔══██║██╔══██╗██╔══██╗  ╚██╔╝   ██╔██╗ ██║     ██║   ██║██╔══██╗██╔══╝
+██║     ██║  ██║██████╔╝██║  ██║   ██║   ██╔╝ ██╗╚██████╗╚██████╔╝██║  ██║███████╗
+╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+```
 
-<!--
-**fabryxcore/fabryxcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+> fabryxcore
 
-Here are some ideas to get you started:
+$ cat about.txt
+> Java → Python → Networking → Security
+> Focus: systems, network infrastructure, and secure environments
+> Interests: network & system security, low-level systems, infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat profile.log
+> domains: systems, networking, security
+> approach: analytical, structured, hands-on
+> mindset: consistency and technical depth
+
+$ echo $STATUS
+> building strong foundations across systems, networking, and security
+
+$ echo $GOAL
+> Understand systems. Analyze networks. Build and secure infrastructure.
+```
